@@ -14,6 +14,9 @@ It is mainly used when we have data collections whose elements can change at run
 
 or any network events. For using this widget we have to specify the Adapter and Layout Manager.
 
+<img src="https://user-images.githubusercontent.com/64752597/203119710-d0f8a6f0-8a6c-4910-baa7-f312d2f5a7d5.png" alt="Screenshot 1" width="200" height="400">
+
+<img src="https://user-images.githubusercontent.com/64752597/203119947-cddc534f-38ab-43dd-8481-9e7b7bbd4a1d.png" alt="Screenshot 2" width="200" height="400">
 
 ![Screenshot_1669039965](https://user-images.githubusercontent.com/64752597/203119710-d0f8a6f0-8a6c-4910-baa7-f312d2f5a7d5.png)
 ![Screenshot_1669039981](https://user-images.githubusercontent.com/64752597/203119947-cddc534f-38ab-43dd-8481-9e7b7bbd4a1d.png)
