@@ -1,7 +1,7 @@
 **# RecyclerView**
 
+<img align="right" width="1200" height="5500" src="https://github.com/AsmaJalal/RecyclerView/blob/master/recy.gif" alt="Asma Jalal">
 
-<img src="https://github.com/AsmaJalal/RecyclerView/blob/master/recy.gif" alt="Screenshot 1" width="1100" height="550">
 RecyclerView is the ViewGroup that contains the views corresponding to your data. 
 It's a view itself, so you add RecyclerView into your layout the way you would add any other UI element. 
 Each individual element in the list is defined by a view holder object. In Android, RecyclerView provides an ability to implement the horizontal, vertical and Expandable List. It is mainly used when we have data collections whose elements can change at run time based on user action or any network events. For using this widget we have to specify the Adapter and Layout Manager.
