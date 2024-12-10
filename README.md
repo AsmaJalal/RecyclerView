@@ -1,4 +1,6 @@
 **# RecyclerView**
+
+
 <img src="https://github.com/AsmaJalal/RecyclerView/blob/master/recy.gif" alt="Screenshot 1" width="1100" height="550">
 RecyclerView is the ViewGroup that contains the views corresponding to your data. 
 It's a view itself, so you add RecyclerView into your layout the way you would add any other UI element. 
