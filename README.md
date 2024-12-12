@@ -8,7 +8,7 @@ Each individual element in the list is defined by a view holder object. In Andro
 
 
 
-<img src="https://github.com/AsmaJalal/RecyclerView/blob/master/github%20batch1.png" alt="Screenshot 1" width="1000" height="550">
+<img src="https://github.com/AsmaJalal/RecyclerView/blob/master/github%20batch1.png" alt="Screenshot 1" width="800" height="500">
 
 <img src="https://user-images.githubusercontent.com/64752597/203119710-d0f8a6f0-8a6c-4910-baa7-f312d2f5a7d5.png" alt="Screenshot 1" width="200" height="400">
 
